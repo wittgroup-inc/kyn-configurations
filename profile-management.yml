@@ -3,4 +3,4 @@ spring:
     mongodb:
       auto-index-creation: true
       database: profile
-dummy: test
+dummy: Pawan
