@@ -3,4 +3,4 @@ spring:
     mongodb:
       auto-index-creation: true
       database: profile
-test_property: Pawan
+test_property: PawanTest
