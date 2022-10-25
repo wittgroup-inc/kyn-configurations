@@ -2,5 +2,5 @@ spring:
   data:
     mongodb:
       auto-index-creation: true
-      database: profile
+      database: profile_db
 test_property: Pawan Gupta
